@@ -26,3 +26,8 @@ How can you use the commands git log and git diff to view the history of files?
 
 	With the git log command you can view all commits being made to the file and compare two commits using the git diff.
 
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to try using git to open files, edit them, and make commits
+
+
