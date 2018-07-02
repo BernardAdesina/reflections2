@@ -14,3 +14,6 @@ What is the benefit of having a copy of your last known state of the remote stor
 
   This is important because we can be able to monitor what changes was last made even if the changes were made by someone else in a group of collaborators.
 
+How would you collaborate without using Git or Github? What would be easier, and what would be harder
+
+  There are other version control systems that can be used to collaborate but working with codes maybe a harder though automatic savings could be easier
