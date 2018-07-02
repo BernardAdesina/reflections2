@@ -17,3 +17,7 @@ What is the benefit of having a copy of your last known state of the remote stor
 How would you collaborate without using Git or Github? What would be easier, and what would be harder
 
   There are other version control systems that can be used to collaborate but working with codes maybe a harder though automatic savings could be easier
+
+When would you want to make a change in a seperate branch rather than directly in master? What benefits does each approach have?
+
+  This is so that changes I have made can be viewed and reviewed by other colllaborators on the project and hereby reduce conflict on the origin/master
